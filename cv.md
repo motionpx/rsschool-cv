@@ -1,7 +1,7 @@
 # Stepan Serov
 
 # Contacts
-## Mail: tyotarjousland@gmail.com
+## Telegram: @ste1v0
 
 # Experience
 ## HTML/CSS/Git/JS Basics
