@@ -17,9 +17,11 @@ function solution(str) {
 ```
 
 # Projects
+* [CV](https://github.com/motionpx/rsschool-cv/blob/gh-pages/cv.md)
 
 # Courses
 * HTML/CSS/JS Code-Basics
 
 # Languages
 * English - B2
+* Russian - Native
