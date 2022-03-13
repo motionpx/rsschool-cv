@@ -1,11 +1,11 @@
 # Stepan Serov
-===
+======
 # Contacts
 ## Mail: tyotarjousland@gmail.com
-===
+======
 # Experience
 ## HTML/CSS/Git/JS Basics
-===
+======
 # Code examples
 ## 
 ```
@@ -16,11 +16,11 @@ function solution(str) {
   return result;
 }
 ```
-===
+======
 # Projects
-===
+======
 # Courses
 ## HTML/CSS/JS Code-Basics
-===
+======
 # Language
 ## English - B2
