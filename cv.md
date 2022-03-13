@@ -1,10 +1,10 @@
 # Stepan Serov
 
 # Contacts
-## Telegram: @ste1v0
+* Telegram: @ste1v0
 
 # Experience
-## HTML/CSS/Git/JS Basics
+* HTML/CSS/Git/JS Basics
 
 # Code examples
 ```
@@ -19,7 +19,7 @@ function solution(str) {
 # Projects
 
 # Courses
-## HTML/CSS/JS Code-Basics
+* HTML/CSS/JS Code-Basics
 
-# Language
-## English - B2
+# Languages
+* English - B2
