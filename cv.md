@@ -1,12 +1,12 @@
 # Stepan Serov
 
-# Contacts
+## Contacts
 * Telegram: @ste1v0
 
-# Experience
+## Experience
 * HTML/CSS/Git/JS Basics
 
-# Code examples
+## Code examples
 ```
 function solution(str) {
   let result = '';
@@ -16,12 +16,12 @@ function solution(str) {
 }
 ```
 
-# Projects
+## Projects
 * [CV](https://github.com/motionpx/rsschool-cv/blob/gh-pages/cv.md)
 
-# Courses
+## Courses
 * HTML/CSS/JS Code-Basics
 
-# Languages
+## Languages
 * English - B2
 * Russian - Native
