@@ -1,1 +1,1 @@
-https://motionpx.github.io/rsschool-cv/cv
+https://motionpx.github.io/rsschool-cv/
