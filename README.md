@@ -1,1 +1,1 @@
-# rsschool-cv
+https://motionpx.github.io/rsschool-cv/
